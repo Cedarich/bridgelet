@@ -211,4 +211,8 @@ Timeline & Milestones Phase 1: Research & Wireframes (1-2 weeks) • User flow d
 
 Appendix: Technical Constraints (For Designer's Awareness) • Blockchain finality: Transactions take ~5-10 seconds (can't speed up) • No user accounts: Recipient side is stateless (no login/signup) • Single-use links: Once claimed, link is dead (can't re-claim) • Expiry is absolute: No grace period after expiry • Network dependency: If Stellar is down, nothing works (rare but possible)
 
-Document Version: 1.0 Last Updated: February 2026 Author: phertyameen [aminubabafatima8@gmail.com]
+Document Version: 1.0 
+Last Updated: February 2026 
+Author: (phertyameen)[https://github.com/phertyameen]
+Updated by: (Ummi-001)[https://github.com/Ummi-001]
+Associated Pr: (#25)[https://github.com/bridgelet-org/bridgelet/pull/25]
