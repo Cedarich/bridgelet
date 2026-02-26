@@ -213,6 +213,6 @@ Appendix: Technical Constraints (For Designer's Awareness) • Blockchain finali
 
 Document Version: 1.0 
 Last Updated: February 2026 
-Author: (phertyameen)[https://github.com/phertyameen]
-Updated by: (Ummi-001)[https://github.com/Ummi-001]
-Associated Pr: (#25)[https://github.com/bridgelet-org/bridgelet/pull/25]
+Author: [phertyameen](https://github.com/phertyameen)
+Updated by: [Ummi-001](https://github.com/Ummi-001)
+Associated Pr: [#25](https://github.com/bridgelet-org/bridgelet/pull/25)
